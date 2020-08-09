@@ -1,0 +1,7 @@
+export const SEARCH_USER = 'SEACH_USER'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_USERINFO = 'SET_USERINFO'
+export const GET_USERREPO = 'GET_USEREPO'
+export const CLEAR_USER = 'CLEAR_USER'
+export const SET_ALERT = 'SET_ALERT'
+export const CLEAR_ALERT = 'CLEAR_ALERT'
